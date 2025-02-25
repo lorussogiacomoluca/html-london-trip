@@ -1,5 +1,6 @@
+# Esercizio 2
+
 # html-london-trip
-## Exercise #2
 
 📝 **Esercizio**: Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 
